@@ -11,4 +11,4 @@ Seleccione el tipo de actividad
 - Hotfix
 - Refactor
 - Performance
-- Testing
+- Testing.
